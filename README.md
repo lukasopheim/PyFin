@@ -1,2 +1,2 @@
 # PyFin
-using pyhton for finance 
+Using pyhton for finance 
